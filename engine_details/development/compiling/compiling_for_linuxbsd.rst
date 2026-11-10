@@ -149,7 +149,7 @@ Distro-specific one-liners
               media-libs/mesa \
               media-libs/glu \
               media-libs/alsa-lib \
-              media-sound/pulseaudio
+              media-sound/libpulse
 
     .. tab:: Mageia
 
